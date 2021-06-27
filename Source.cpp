@@ -5,7 +5,7 @@ int main() {
 	setlocale(LC_ALL, "ru");
 	int arr[10];
 
-	cout << "Заполните массив: ";
+	cout << "Р—Р°РїРѕР»РЅРёС‚Рµ РјР°СЃСЃРёРІ: ";
 	for (int i = 0; i < 10; i++)
 	{
 		cin >> arr[i];
